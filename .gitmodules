@@ -1,0 +1,3 @@
+[submodule "roboticslab_plotting_matlab"]
+	path = roboticslab_plotting_matlab
+	url = https://alexalspach@github.com/alexalspach/roboticslab_plotting_matlab
